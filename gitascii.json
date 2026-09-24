@@ -35,7 +35,9 @@
       },
       "config": {
         "accentColor": "#55ffff",
-        "customTitle": "Terminal Telemetry"
+        "customTitle": "Terminal Telemetry",
+        "secondaryColor": "#c084fc",
+        "ledColor": "#ff5555"
       },
       "locked": false,
       "zIndex": 2,
@@ -50,7 +52,7 @@
     {
       "name": "Surveillance-feeds Widget",
       "size": {
-        "width": 780,
+        "width": 790,
         "height": 190
       },
       "config": {
@@ -65,7 +67,7 @@
       "visible": true,
       "position": {
         "x": 10,
-        "y": 845
+        "y": 1048
       },
       "widgetId": "surveillance-feeds",
       "instanceId": "widget_1790186991559_2"
@@ -90,7 +92,7 @@
       "visible": true,
       "position": {
         "x": 10,
-        "y": 1051
+        "y": 840
       },
       "widgetId": "surveillance-loadout",
       "instanceId": "widget_1790186991559_3"
@@ -110,7 +112,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790247714524_ka32y",
-    "updatedAt": "2026-09-24T11:01:56.145Z"
+    "revision": "rev_1790247868590_a669y",
+    "updatedAt": "2026-09-24T11:04:29.940Z"
   }
 }

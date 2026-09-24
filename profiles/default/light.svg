@@ -1,5 +1,5 @@
 
-<svg width="800" height="1267" viewBox="0 0 800 1267" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="1254" viewBox="0 0 800 1254" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,7 +29,7 @@
     }
   </style>
 
-  <rect class="" width="800" height="1267" fill="#ffffff" rx="0" />
+  <rect class="" width="800" height="1254" fill="#ffffff" rx="0" />
 
   
     <g transform="translate(10, 0)" id="widget-widget_1790186991559_0">
@@ -189,14 +189,14 @@
     </g>
   
 
-    <g transform="translate(10, 845)" id="widget-widget_1790186991559_2">
+    <g transform="translate(10, 1048)" id="widget-widget_1790186991559_2">
 
       
       
       
       
       
-    <svg xmlns="http://www.w3.org/2000/svg" id="widget_1790186991559_2" width="780" height="190" viewBox="0 0 780 190" preserveAspectRatio="xMidYMid meet" font-family="'Departure Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <svg xmlns="http://www.w3.org/2000/svg" id="widget_1790186991559_2" width="790" height="190" viewBox="0 0 790 190" preserveAspectRatio="xMidYMid meet" font-family="'Departure Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
       
     <defs>
       <pattern id="scan-widget_1790186991559_2" width="4" height="4" patternUnits="userSpaceOnUse">
@@ -267,7 +267,7 @@
         #widget_1790186991559_2 .drop{animation:mdrop-widget_1790186991559_2 4.4s ease-in infinite}
         @keyframes unread-widget_1790186991559_2{0%,100%{opacity:.3}50%{opacity:1}}
         #widget_1790186991559_2 .un{animation:unread-widget_1790186991559_2 1.6s ease-in-out infinite}
-        @keyframes plane-widget_1790186991559_2{0%{transform:translate(-34px,6px);opacity:0}22%,78%{opacity:.95}100%{transform:translate(252px,-14px);opacity:0}}
+        @keyframes plane-widget_1790186991559_2{0%{transform:translate(-34px,6px);opacity:0}22%,78%{opacity:.95}100%{transform:translate(255px,-14px);opacity:0}}
         #widget_1790186991559_2 .plane{animation:plane-widget_1790186991559_2 5.2s ease-in-out infinite}
         @keyframes caret-widget_1790186991559_2{0%,50%{opacity:1}51%,100%{opacity:0}}
         #widget_1790186991559_2 .caret{animation:caret-widget_1790186991559_2 1s steps(1) infinite}
@@ -282,7 +282,7 @@
       
       </style>
       
-      <g transform="translate(0,0)"><rect x="1" y="1" width="250" height="188" fill="#050308" stroke="rgba(85,255,255,0.18)"/><rect x="1" y="1" width="250" height="22" fill="rgba(85,255,255,0.06)"/><line x1="1" y1="23" x2="251" y2="23" stroke="rgba(85,255,255,0.18)"/><rect x="12" y="8" width="8" height="8" fill="#ff5555" class="led" filter="url(#glow-widget_1790186991559_2)"/><text x="24" y="15" font-size="9" letter-spacing="1.2" fill="#55ffff">FEED // LINKEDIN</text><text x="242" y="15" font-size="8" letter-spacing="1" text-anchor="end" fill="#6f6478">CAM-01</text><clipPath id="fclip-linkedin-widget_1790186991559_2"><rect x="1" y="24" width="250" height="165"/></clipPath><g clip-path="url(#fclip-linkedin-widget_1790186991559_2)"><circle class="ring" cx="126" cy="98" r="46" fill="none" stroke="#4d9fff" stroke-width="1" stroke-dasharray="2 9" opacity=".3"/><line class="edge" x1="126" y1="98" x2="30" y2="36" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="126" y1="98" x2="222" y2="38" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="126" y1="98" x2="24" y2="150" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="126" y1="98" x2="228" y2="152" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="126" y1="98" x2="126" y2="26" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="126" y1="98" x2="28" y2="104" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="126" y1="98" x2="228" y2="98" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/>
+      <g transform="translate(0,0)"><rect x="1" y="1" width="253" height="188" fill="#050308" stroke="rgba(85,255,255,0.18)"/><rect x="1" y="1" width="253" height="22" fill="rgba(85,255,255,0.06)"/><line x1="1" y1="23" x2="254" y2="23" stroke="rgba(85,255,255,0.18)"/><rect x="12" y="8" width="8" height="8" fill="#ff5555" class="led" filter="url(#glow-widget_1790186991559_2)"/><text x="24" y="15" font-size="9" letter-spacing="1.2" fill="#55ffff">FEED // LINKEDIN</text><text x="245" y="15" font-size="8" letter-spacing="1" text-anchor="end" fill="#6f6478">CAM-01</text><clipPath id="fclip-linkedin-widget_1790186991559_2"><rect x="1" y="24" width="253" height="165"/></clipPath><g clip-path="url(#fclip-linkedin-widget_1790186991559_2)"><circle class="ring" cx="127.5" cy="98" r="46" fill="none" stroke="#4d9fff" stroke-width="1" stroke-dasharray="2 9" opacity=".3"/><line class="edge" x1="127.5" y1="98" x2="30" y2="36" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="127.5" y1="98" x2="225" y2="38" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="127.5" y1="98" x2="24" y2="150" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="127.5" y1="98" x2="231" y2="152" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="127.5" y1="98" x2="127.5" y2="26" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="127.5" y1="98" x2="28" y2="104" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/><line class="edge" x1="127.5" y1="98" x2="231" y2="98" stroke="#4d9fff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"/>
         <g class="node" style="animation-delay:0.00s">
           <g transform="translate(30,36)">
             <circle r="7" fill="#0a1830" stroke="#7cc2ff" stroke-width="1.2"/>
@@ -292,7 +292,7 @@
         </g>
       
         <g class="node" style="animation-delay:0.40s">
-          <g transform="translate(222,38)">
+          <g transform="translate(225,38)">
             <circle r="7" fill="#0a1830" stroke="#7cc2ff" stroke-width="1.2"/>
             <circle cy="-1.26" r="2.3800000000000003" fill="#7cc2ff"/>
             <path d="M-3.5 4.34 a3.5 2.94 0 0 1 7 0" fill="#7cc2ff"/>
@@ -308,7 +308,7 @@
         </g>
       
         <g class="node" style="animation-delay:1.20s">
-          <g transform="translate(228,152)">
+          <g transform="translate(231,152)">
             <circle r="7" fill="#0a1830" stroke="#7cc2ff" stroke-width="1.2"/>
             <circle cy="-1.26" r="2.3800000000000003" fill="#7cc2ff"/>
             <path d="M-3.5 4.34 a3.5 2.94 0 0 1 7 0" fill="#7cc2ff"/>
@@ -316,7 +316,7 @@
         </g>
       
         <g class="node" style="animation-delay:1.60s">
-          <g transform="translate(126,26)">
+          <g transform="translate(127.5,26)">
             <circle r="7" fill="#0a1830" stroke="#7cc2ff" stroke-width="1.2"/>
             <circle cy="-1.26" r="2.3800000000000003" fill="#7cc2ff"/>
             <path d="M-3.5 4.34 a3.5 2.94 0 0 1 7 0" fill="#7cc2ff"/>
@@ -332,29 +332,29 @@
         </g>
       
         <g class="node" style="animation-delay:2.40s">
-          <g transform="translate(228,98)">
+          <g transform="translate(231,98)">
             <circle r="7" fill="#0a1830" stroke="#7cc2ff" stroke-width="1.2"/>
             <circle cy="-1.26" r="2.3800000000000003" fill="#7cc2ff"/>
             <path d="M-3.5 4.34 a3.5 2.94 0 0 1 7 0" fill="#7cc2ff"/>
           </g>
         </g>
-      <circle class="reach" cx="222" cy="38" r="12" fill="none" stroke="#55ff55" stroke-width="1.5"/>
-      <g transform="translate(126,98)">
+      <circle class="reach" cx="225" cy="38" r="12" fill="none" stroke="#55ff55" stroke-width="1.5"/>
+      <g transform="translate(127.5,98)">
         <circle r="13" fill="#0a1830" stroke="#a9d4ff" stroke-width="1.2" filter="url(#glow-widget_1790186991559_2)"/>
         <circle cy="-2.34" r="4.42" fill="#a9d4ff"/>
         <path d="M-6.5 8.06 a6.5 5.46 0 0 1 13 0" fill="#a9d4ff"/>
       </g>
-      <rect x="131" y="100" width="12" height="12" rx="2" fill="#4d9fff"/>
-      <text x="133" y="109" font-size="9" fill="#00142c">in</text>
-    <rect x="1" y="24" width="250" height="165" fill="url(#scan-widget_1790186991559_2)" opacity="0.14"/></g><text x="242" y="182" font-size="8" letter-spacing="1" text-anchor="end" fill="#55ffff">CONNECT ▶</text><g stroke="rgba(85,255,255,0.6)" stroke-width="1" fill="none"><path d="M5 15 v-10 M5 5 h10"/><path d="M247 15 v-10 M247 5 h-10"/><path d="M5 175 v10 M5 185 h10"/><path d="M247 175 v10 M247 185 h-10"/></g></g><g transform="translate(260,0)"><rect x="1" y="1" width="250" height="188" fill="#050308" stroke="rgba(85,255,255,0.18)"/><rect x="1" y="1" width="250" height="22" fill="rgba(85,255,255,0.06)"/><line x1="1" y1="23" x2="251" y2="23" stroke="rgba(85,255,255,0.18)"/><rect x="12" y="8" width="8" height="8" fill="#ff5555" class="led" filter="url(#glow-widget_1790186991559_2)"/><text x="24" y="15" font-size="9" letter-spacing="1.2" fill="#55ffff">FEED // EMAIL</text><text x="242" y="15" font-size="8" letter-spacing="1" text-anchor="end" fill="#6f6478">CAM-02</text><clipPath id="fclip-mail-widget_1790186991559_2"><rect x="1" y="24" width="250" height="165"/></clipPath><g clip-path="url(#fclip-mail-widget_1790186991559_2)"><rect x="10" y="28" width="232" height="22" rx="3" fill="#08201c" stroke="rgba(127,227,208,.25)" stroke-width="1"/><circle class="un" cx="20" cy="39" r="3" fill="#7fe3d0" style="animation-delay:0.00s"/><g transform="translate(30,33)" stroke="#7fe3d0" stroke-width="1" fill="none"><rect width="14" height="10" rx="1.5"/><path d="M0 1l7 5L14 1"/></g><rect x="50" y="34" width="60" height="3" fill="#7fe3d0"/><rect x="50" y="41" width="120" height="2.5" fill="#2b4d47" opacity=".6"/><rect x="10" y="56" width="232" height="22" rx="3" fill="#08201c" stroke="rgba(127,227,208,.25)" stroke-width="1"/><circle class="un" cx="20" cy="67" r="3" fill="#7fe3d0" style="animation-delay:0.40s"/><g transform="translate(30,61)" stroke="#7fe3d0" stroke-width="1" fill="none"><rect width="14" height="10" rx="1.5"/><path d="M0 1l7 5L14 1"/></g><rect x="50" y="62" width="72" height="3" fill="#7fe3d0"/><rect x="50" y="69" width="104" height="2.5" fill="#2b4d47" opacity=".6"/><rect x="10" y="84" width="232" height="22" rx="3" fill="#08201c" stroke="rgba(127,227,208,.25)" stroke-width="1"/><circle class="un" cx="20" cy="95" r="3" fill="#7fe3d0" style="animation-delay:0.80s"/><g transform="translate(30,89)" stroke="#7fe3d0" stroke-width="1" fill="none"><rect width="14" height="10" rx="1.5"/><path d="M0 1l7 5L14 1"/></g><rect x="50" y="90" width="84" height="3" fill="#7fe3d0"/><rect x="50" y="97" width="88" height="2.5" fill="#2b4d47" opacity=".6"/>
+      <rect x="132.5" y="100" width="12" height="12" rx="2" fill="#4d9fff"/>
+      <text x="134.5" y="109" font-size="9" fill="#00142c">in</text>
+    <rect x="1" y="24" width="253" height="165" fill="url(#scan-widget_1790186991559_2)" opacity="0.14"/></g><text x="245" y="182" font-size="8" letter-spacing="1" text-anchor="end" fill="#55ffff">CONNECT ▶</text><g stroke="rgba(85,255,255,0.6)" stroke-width="1" fill="none"><path d="M5 15 v-10 M5 5 h10"/><path d="M250 15 v-10 M250 5 h-10"/><path d="M5 175 v10 M5 185 h10"/><path d="M250 175 v10 M250 185 h-10"/></g></g><g transform="translate(263,0)"><rect x="1" y="1" width="253" height="188" fill="#050308" stroke="rgba(85,255,255,0.18)"/><rect x="1" y="1" width="253" height="22" fill="rgba(85,255,255,0.06)"/><line x1="1" y1="23" x2="254" y2="23" stroke="rgba(85,255,255,0.18)"/><rect x="12" y="8" width="8" height="8" fill="#ff5555" class="led" filter="url(#glow-widget_1790186991559_2)"/><text x="24" y="15" font-size="9" letter-spacing="1.2" fill="#55ffff">FEED // EMAIL</text><text x="245" y="15" font-size="8" letter-spacing="1" text-anchor="end" fill="#6f6478">CAM-02</text><clipPath id="fclip-mail-widget_1790186991559_2"><rect x="1" y="24" width="253" height="165"/></clipPath><g clip-path="url(#fclip-mail-widget_1790186991559_2)"><rect x="10" y="28" width="235" height="22" rx="3" fill="#08201c" stroke="rgba(127,227,208,.25)" stroke-width="1"/><circle class="un" cx="20" cy="39" r="3" fill="#7fe3d0" style="animation-delay:0.00s"/><g transform="translate(30,33)" stroke="#7fe3d0" stroke-width="1" fill="none"><rect width="14" height="10" rx="1.5"/><path d="M0 1l7 5L14 1"/></g><rect x="50" y="34" width="60" height="3" fill="#7fe3d0"/><rect x="50" y="41" width="120" height="2.5" fill="#2b4d47" opacity=".6"/><rect x="10" y="56" width="235" height="22" rx="3" fill="#08201c" stroke="rgba(127,227,208,.25)" stroke-width="1"/><circle class="un" cx="20" cy="67" r="3" fill="#7fe3d0" style="animation-delay:0.40s"/><g transform="translate(30,61)" stroke="#7fe3d0" stroke-width="1" fill="none"><rect width="14" height="10" rx="1.5"/><path d="M0 1l7 5L14 1"/></g><rect x="50" y="62" width="72" height="3" fill="#7fe3d0"/><rect x="50" y="69" width="104" height="2.5" fill="#2b4d47" opacity=".6"/><rect x="10" y="84" width="235" height="22" rx="3" fill="#08201c" stroke="rgba(127,227,208,.25)" stroke-width="1"/><circle class="un" cx="20" cy="95" r="3" fill="#7fe3d0" style="animation-delay:0.80s"/><g transform="translate(30,89)" stroke="#7fe3d0" stroke-width="1" fill="none"><rect width="14" height="10" rx="1.5"/><path d="M0 1l7 5L14 1"/></g><rect x="50" y="90" width="84" height="3" fill="#7fe3d0"/><rect x="50" y="97" width="88" height="2.5" fill="#2b4d47" opacity=".6"/>
         <g class="drop">
-          <g transform="translate(111,16)" stroke="#7fe3d0" stroke-width="1.4" fill="#08201c">
+          <g transform="translate(112.5,16)" stroke="#7fe3d0" stroke-width="1.4" fill="#08201c">
             <rect width="30" height="20" rx="2.5"/>
             <path d="M0 2l15 11L30 2" fill="none"/>
           </g>
         </g>
         <path class="plane" d="M0 0l18 7-6 2-2 6z" fill="#7fe3d0" transform="translate(0,114)"/>
-      <text x="12" y="128" font-size="9" letter-spacing="1" fill="#39b39a">&gt; compose message</text><rect class="caret" x="126" y="120" width="6" height="10" fill="#7fe3d0"/><rect x="1" y="24" width="250" height="165" fill="url(#scan-widget_1790186991559_2)" opacity="0.14"/></g><text x="242" y="182" font-size="8" letter-spacing="1" text-anchor="end" fill="#55ffff">CONNECT ▶</text><g stroke="rgba(85,255,255,0.6)" stroke-width="1" fill="none"><path d="M5 15 v-10 M5 5 h10"/><path d="M247 15 v-10 M247 5 h-10"/><path d="M5 175 v10 M5 185 h10"/><path d="M247 175 v10 M247 185 h-10"/></g></g><g transform="translate(520,0)"><rect x="1" y="1" width="250" height="188" fill="#050308" stroke="rgba(85,255,255,0.18)"/><rect x="1" y="1" width="250" height="22" fill="rgba(85,255,255,0.06)"/><line x1="1" y1="23" x2="251" y2="23" stroke="rgba(85,255,255,0.18)"/><rect x="12" y="8" width="8" height="8" fill="#ff5555" class="led" filter="url(#glow-widget_1790186991559_2)"/><text x="24" y="15" font-size="9" letter-spacing="1.2" fill="#55ffff">FEED // DISCORD</text><text x="242" y="15" font-size="8" letter-spacing="1" text-anchor="end" fill="#6f6478">CAM-03</text><clipPath id="fclip-discord-widget_1790186991559_2"><rect x="1" y="24" width="250" height="165"/></clipPath><g clip-path="url(#fclip-discord-widget_1790186991559_2)"><rect x="10" y="24" width="70" height="18" rx="9" fill="#121020" stroke="rgba(88,101,242,.4)"/><circle cx="20" cy="33" r="4.5" fill="#5865f2"/><circle cx="20" cy="33" r="2.5" fill="#121020"/><text x="29" y="37" font-size="9" fill="#c9c6ff">#general</text><rect x="174" y="24" width="68" height="18" rx="9" fill="#121020" stroke="rgba(87,242,135,.4)"/><circle class="vs" cx="184" cy="33" r="4" fill="#57f287"/><circle cx="184" cy="33" r="4" fill="#57f287"/><text x="194" y="36" font-size="9" fill="#57f287">Voice · 3</text>
+      <text x="12" y="128" font-size="9" letter-spacing="1" fill="#39b39a">&gt; compose message</text><rect class="caret" x="126" y="120" width="6" height="10" fill="#7fe3d0"/><rect x="1" y="24" width="253" height="165" fill="url(#scan-widget_1790186991559_2)" opacity="0.14"/></g><text x="245" y="182" font-size="8" letter-spacing="1" text-anchor="end" fill="#55ffff">CONNECT ▶</text><g stroke="rgba(85,255,255,0.6)" stroke-width="1" fill="none"><path d="M5 15 v-10 M5 5 h10"/><path d="M250 15 v-10 M250 5 h-10"/><path d="M5 175 v10 M5 185 h10"/><path d="M250 175 v10 M250 185 h-10"/></g></g><g transform="translate(526,0)"><rect x="1" y="1" width="253" height="188" fill="#050308" stroke="rgba(85,255,255,0.18)"/><rect x="1" y="1" width="253" height="22" fill="rgba(85,255,255,0.06)"/><line x1="1" y1="23" x2="254" y2="23" stroke="rgba(85,255,255,0.18)"/><rect x="12" y="8" width="8" height="8" fill="#ff5555" class="led" filter="url(#glow-widget_1790186991559_2)"/><text x="24" y="15" font-size="9" letter-spacing="1.2" fill="#55ffff">FEED // DISCORD</text><text x="245" y="15" font-size="8" letter-spacing="1" text-anchor="end" fill="#6f6478">CAM-03</text><clipPath id="fclip-discord-widget_1790186991559_2"><rect x="1" y="24" width="253" height="165"/></clipPath><g clip-path="url(#fclip-discord-widget_1790186991559_2)"><rect x="10" y="24" width="70" height="18" rx="9" fill="#121020" stroke="rgba(88,101,242,.4)"/><circle cx="20" cy="33" r="4.5" fill="#5865f2"/><circle cx="20" cy="33" r="2.5" fill="#121020"/><text x="29" y="37" font-size="9" fill="#c9c6ff">#general</text><rect x="177" y="24" width="68" height="18" rx="9" fill="#121020" stroke="rgba(87,242,135,.4)"/><circle class="vs" cx="187" cy="33" r="4" fill="#57f287"/><circle cx="187" cy="33" r="4" fill="#57f287"/><text x="197" y="36" font-size="9" fill="#57f287">Voice · 3</text>
         <g class="msg" style="animation-delay:0.00s">
           <circle cx="20" cy="58" r="6" fill="#eb459e"/>
           <text x="32" y="58" font-size="9.5" font-weight="bold" fill="#eb459e">alice</text>
@@ -375,14 +375,14 @@
           <text x="78" y="110" font-size="8" fill="#8d8db0">TODAY</text>
           <text x="32" y="122" font-size="9" fill="#c9c6ff">deploying to edge...</text>
         </g>
-      <rect x="10" y="132" width="232" height="18" rx="3" fill="#121020" stroke="rgba(88,101,242,.2)"/><text x="18" y="145" font-size="8.5" fill="#8d8db0">message #general</text><circle class="tp" cx="228" cy="141" r="1.8" fill="#5865f2"/><circle class="tp" cx="233" cy="141" r="1.8" fill="#5865f2" style="animation-delay:.2s"/><circle class="tp" cx="238" cy="141" r="1.8" fill="#5865f2" style="animation-delay:.4s"/><rect x="1" y="24" width="250" height="165" fill="url(#scan-widget_1790186991559_2)" opacity="0.14"/></g><text x="242" y="182" font-size="8" letter-spacing="1" text-anchor="end" fill="#55ffff">CONNECT ▶</text><g stroke="rgba(85,255,255,0.6)" stroke-width="1" fill="none"><path d="M5 15 v-10 M5 5 h10"/><path d="M247 15 v-10 M247 5 h-10"/><path d="M5 175 v10 M5 185 h10"/><path d="M247 175 v10 M247 185 h-10"/></g></g>
+      <rect x="10" y="132" width="235" height="18" rx="3" fill="#121020" stroke="rgba(88,101,242,.2)"/><text x="18" y="145" font-size="8.5" fill="#8d8db0">message #general</text><circle class="tp" cx="231" cy="141" r="1.8" fill="#5865f2"/><circle class="tp" cx="236" cy="141" r="1.8" fill="#5865f2" style="animation-delay:.2s"/><circle class="tp" cx="241" cy="141" r="1.8" fill="#5865f2" style="animation-delay:.4s"/><rect x="1" y="24" width="253" height="165" fill="url(#scan-widget_1790186991559_2)" opacity="0.14"/></g><text x="245" y="182" font-size="8" letter-spacing="1" text-anchor="end" fill="#55ffff">CONNECT ▶</text><g stroke="rgba(85,255,255,0.6)" stroke-width="1" fill="none"><path d="M5 15 v-10 M5 5 h10"/><path d="M250 15 v-10 M250 5 h-10"/><path d="M5 175 v10 M5 185 h10"/><path d="M250 175 v10 M250 185 h-10"/></g></g>
     </svg>
   
   
     </g>
   
 
-    <g transform="translate(10, 1051)" id="widget-widget_1790186991559_3">
+    <g transform="translate(10, 840)" id="widget-widget_1790186991559_3">
 
       
       
