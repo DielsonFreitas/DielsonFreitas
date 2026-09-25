@@ -34,10 +34,10 @@
         "height": 420
       },
       "config": {
+        "ledColor": "#ff5555",
         "accentColor": "#55ffff",
         "customTitle": "Terminal Telemetry",
-        "secondaryColor": "#c084fc",
-        "ledColor": "#ff5555"
+        "secondaryColor": "#c084fc"
       },
       "locked": false,
       "zIndex": 2,
@@ -82,7 +82,9 @@
         "workflow": [
           "VS Code",
           "Terminal",
-          "Linux"
+          "Linux",
+          "Rede de Computadores",
+          "GitHub"
         ],
         "accentColor": "#55ffff",
         "customTitle": "Daily Loadout"
@@ -91,7 +93,7 @@
       "zIndex": 4,
       "visible": true,
       "position": {
-        "x": 10,
+        "x": 14,
         "y": 840
       },
       "widgetId": "surveillance-loadout",
@@ -112,7 +114,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790247868590_a669y",
-    "updatedAt": "2026-09-24T11:04:29.940Z"
+    "revision": "rev_1790365487922_6boo0",
+    "updatedAt": "2026-09-25T19:44:50.273Z"
   }
 }
